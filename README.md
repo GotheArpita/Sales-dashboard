@@ -2,6 +2,8 @@
 
 An interactive Sales Analytics Dashboard built using Python, Streamlit, Pandas, and Plotly to transform raw retail sales data into actionable business insights.
 
+## 🚀 Live Link: https://sales-dashboard-lk6vrncgyweun6ywajx4yf.streamlit.app/
+
 ## 🚀 Project Overview
 
 This project analyzes the Superstore dataset and provides insights into sales performance, profitability, customer segments, product categories, and regional trends through an interactive dashboard.
